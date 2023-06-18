@@ -1,0 +1,314 @@
+keys AmbienceIcons
+	garden_1
+	garden_2
+	garden_3
+	garden_4
+	garden_5
+	0x19524BF8
+	0x19524BFB
+	0x19524BFA
+	0x19524BFD
+	0x19524BFC
+	junkfood_1
+	junkfood_2
+	junkfood_3
+	junkfood_4
+	junkfood_5
+	0x31685823
+	0x31685820
+	0x31685821
+	0x31685826
+	0x31685827
+	atmosphere
+	cloud_choir
+	compleatair
+	compleatlandscape
+	lava_groan
+	smallsoftgran
+	swinging_pub_sign
+	weather_lightning
+	economic_icon
+	economic_icon
+	economic_icon
+	military_icon
+	military_icon
+	military_icon
+	religious_icon
+	religious_icon
+	religious_icon
+	religious_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+	colony_icon
+end
+keys BeatIcons
+	origami_1
+	origami_2
+	origami_3
+	origami_4
+	origami_5
+	rockroll_1
+	rockroll_2
+	rockroll_3
+	rockroll_4
+	rockroll_5
+	ultra
+	velvet
+	introspect
+	heavy_city
+	Arcadia_Bitcrusher
+	Bwiza_percu
+	HAteta_Vibraphone
+	Kame_Beat
+	Kame_Kalimba
+	MegaMe
+	Octad_Stutter
+	Sela_Gambang
+	Acidpro_reggae
+	Blues_drum
+	Eeznor_kickclap
+	Giodrum
+	Haidarjasem_lord
+	Live_acoustic
+	Metal_pattern
+	Soft_trap
+end
+uint32 ColorInScale 0xfff0e14c
+uint32 ColorOutOfScale 0xfffa7b12
+uint32 ColorSuggested 0xff59cc0d
+keys InstrumentIcons
+	shearg_1
+	shearg_2
+	shearg_3
+	shearg_4
+	shearg_5
+	weather_1
+	weather_2
+	weather_3
+	weather_4
+	weather_5
+	catgut
+	curie
+	digimarimba
+	fermi
+	fhorn-long
+	field_double_piano
+	field_single_piano
+	highblip
+	hymnbell
+	lowblip
+	marimba2
+	ohm
+	piano3
+	planck
+	sine-short
+	slimebass
+	subbass-long
+	subbass-short
+	upright_bass2
+	vinylbass
+	Guitar_Jazz_Echoed
+	8Bit_blip
+	Hawaii_PedalSteel
+	Gamelan_Jam_Gambang
+	Japan_Big_Rako_ball
+	Japan_Koto
+	Kalimba_Bass
+	SyntheticLowBells
+	Synth_Jam
+	VibraPhone
+	Accordion
+	Punchy_cello
+	Sitar
+	Slap_bass
+	Ukulele
+end
+uint32 KeyIncrement 38
+float MaxBeats 4
+uint32 MaxNotes 64
+uint32 MaxPitch 96
+uint32 MinNotes 0
+uint32 MinPitch 60
+uint32 NumAmbiences 60
+uint32 NumInstruments 45
+uint32 NumRhythms 30
+uint32 Tonic 60
+uint32s 0x07C80900
+	1
+	0
+	1
+	0
+	0
+	0
+	1
+end
+uint32s 0x07C80901
+	0
+	1
+	0
+	0
+	1
+	1
+	0
+end
+uint32s 0x07C80902
+	1
+	0
+	0
+	1
+	1
+	1
+	0
+end
+uint32s 0x07C80903
+	1
+	1
+	0
+	1
+	1
+	0
+	0
+end
+uint32s 0x07C80904
+	0
+	0
+	1
+	1
+	0
+	1
+	0
+end
+uint32s 0x07C80905
+	0
+	1
+	0
+	1
+	1
+	1
+	0
+end
+uint32s 0x07C80906
+	1
+	0
+	0
+	1
+	1
+	1
+	0
+end
+uint32s 0x24ADC124
+	0
+	2
+	4
+	5
+	7
+	9
+	11
+end
+floats 0x2AA962C3
+	0
+	0
+	0
+	0.3
+	0.5
+	0.5
+	1
+	1
+	1
+	0.5
+	0.5
+	0.3
+	0
+	0
+	0
+	0
+	0
+end
+uint32 0x4A20E21D 40
+uint32 0x5263C6EE 600
+float 0x5F8DCA10 0.25
+uint32 0x6679061F 4
+uint32 0x7F7BB0F6 120
+floats 0xB37FBB08
+	0.1
+	0.35
+	0.1
+	0.1
+	0.35
+	0
+	0
+end
+floats 0xB37FBB09
+	0.35
+	0.1
+	0.35
+	0.05
+	0.05
+	0.1
+	0
+end
+floats 0xB37FBB0A
+	0.1
+	0.1
+	0.05
+	0
+	0.7
+	0.05
+	0
+end
+floats 0xB37FBB0B
+	0.7
+	0.05
+	0.05
+	0.1
+	0
+	0.1
+	0
+end
+floats 0xB37FBB0C
+	0.05
+	0
+	0.05
+	0.1
+	0.7
+	0.1
+	0
+end
+floats 0xB37FBB0D
+	0.05
+	0.05
+	0
+	0.15
+	0.05
+	0.7
+	0
+end
+floats 0xB37FBB0F
+	0
+	0.1
+	0.1
+	0.35
+	0.35
+	0.35
+	0
+end
+uint32 0xE87F3A32 20
