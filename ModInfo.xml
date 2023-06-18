@@ -1,0 +1,11 @@
+<mod displayName="Improved Anthems v2.5"
+	unique="ImprovedAnthems"
+	description="Greately improves the anthem editor in civ or space stages."
+	installerSystemVersion="1.0.1.2"
+	dllsBuild="2.5.277"
+	isExperimental="false"
+>
+	<remove game="GalacticAdventures">ImprovedAnthemsMod.package</remove>
+	<remove game="GalacticAdventures">ImprovedAnthemsMod2.0.package</remove>
+    <prerequisite game="GalacticAdventures">ImprovedAnthems.package</prerequisite>
+</mod>
