@@ -1,0 +1,7 @@
+keys preloadTextures
+	graphics_atlas~!0x901AD698
+	graphics_atlas~!0x901AD699
+	graphics_atlas~!0x901AD69B
+	graphics_atlas~!BotonNaranja
+	graphics_atlas~!BotonCyan
+end
