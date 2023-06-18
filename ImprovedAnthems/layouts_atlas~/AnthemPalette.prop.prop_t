@@ -1,0 +1,5 @@
+keys preloadTextures
+	graphics_atlas~!0x59D037F8
+	graphics_atlas~!0x59D037FA
+	graphics_atlas~!0x59D037FB
+end

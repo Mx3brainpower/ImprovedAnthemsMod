@@ -1,0 +1,16 @@
+key parent palette_config~!AnthemPalette.prop
+keys paletteCategoryIconList
+	editors_planner~!0x1CDEF286.png
+	editors_planner~!0x4AB99AFB.png
+	editors_planner~!0x451E5290.png
+	editors_planner~!0x1CDEF286.png
+	editors_planner~!0x63484BF2.png
+	editors_planner~!0x4AB99AFB.png
+	editors_planner~!0x7029BADC.png
+	editors_planner~!0x74C6F9DC.png
+	editors_planner~!0x42F0346F.png
+end
+texts paletteCategoryName
+	(cip!0x00000007) "Music"
+end
+uint32 paletteCategorySequenceNumber 500
