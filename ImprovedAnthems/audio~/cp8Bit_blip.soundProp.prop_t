@@ -1,0 +1,4 @@
+key musicTemplate _cp_instrument_base
+keys samples
+	cp8Bit_blip
+end
